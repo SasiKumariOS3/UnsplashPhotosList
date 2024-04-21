@@ -16,6 +16,7 @@
    This application developed by MVVM design pattern.
    
    
+# About me
 👋 Hi, I’m @SasiKumar
 👀 My greatest love is programming, software architecture, writing code etc.. Currently I’m developing mobile applications.
 🌱 I'm developing apps for iPhones and iPads since 2015 with both Objective c and Swift languages. I am interested in science and technology which encourages me to participate in inventing new things and concepts ...
